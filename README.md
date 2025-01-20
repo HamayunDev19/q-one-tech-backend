@@ -71,6 +71,6 @@ npm run dev
 
 ## PORT
 
-Dekkillz Backend would run on port 8081, if you provide PORT 8081 in .env
+Backend would run on port 8081, if you provide PORT 8081 in .env
 
 The required PORT can be added in the .env file
