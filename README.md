@@ -1,4 +1,4 @@
-# Cyber Arena BAckend
+# q-one-tech-backend
 
 
 ## Requirements
